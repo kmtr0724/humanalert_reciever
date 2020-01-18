@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "humanAlert", "humanAlert\humanAlert.vbproj", "{25F2B4E7-F20C-4653-80B7-C218DDF89E22}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{25F2B4E7-F20C-4653-80B7-C218DDF89E22}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{25F2B4E7-F20C-4653-80B7-C218DDF89E22}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{25F2B4E7-F20C-4653-80B7-C218DDF89E22}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{25F2B4E7-F20C-4653-80B7-C218DDF89E22}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8D63AA34-392D-4E04-8C72-093785676801}
+	EndGlobalSection
+EndGlobal

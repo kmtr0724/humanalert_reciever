@@ -1,0 +1,11 @@
+D:\system\desktop\humanAlert\humanAlert\bin\Release\humanAlert.exe.config
+D:\system\desktop\humanAlert\humanAlert\bin\Release\humanAlert.exe
+D:\system\desktop\humanAlert\humanAlert\bin\Release\humanAlert.pdb
+D:\system\desktop\humanAlert\humanAlert\bin\Release\humanAlert.xml
+D:\system\desktop\humanAlert\humanAlert\obj\Release\humanAlert.vbprojAssemblyReference.cache
+D:\system\desktop\humanAlert\humanAlert\obj\Release\humanAlert.Form1.resources
+D:\system\desktop\humanAlert\humanAlert\obj\Release\humanAlert.Resources.resources
+D:\system\desktop\humanAlert\humanAlert\obj\Release\humanAlert.vbproj.GenerateResource.cache
+D:\system\desktop\humanAlert\humanAlert\obj\Release\humanAlert.exe
+D:\system\desktop\humanAlert\humanAlert\obj\Release\humanAlert.xml
+D:\system\desktop\humanAlert\humanAlert\obj\Release\humanAlert.pdb
