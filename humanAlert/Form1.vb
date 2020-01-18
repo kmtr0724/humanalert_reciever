@@ -1,4 +1,5 @@
 ﻿Imports System.Net.NetworkInformation
+'gitのテスト
 Public Class Form1
     Public Declare Sub keybd_event Lib "user32" (ByVal bVk As Byte, ByVal bScan As Byte, ByVal dwFlags As Integer, ByVal dwExtraInfo As Integer)
 
