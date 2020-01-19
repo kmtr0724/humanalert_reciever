@@ -36,6 +36,8 @@ Partial Class Form1
         Me.Button3 = New System.Windows.Forms.Button()
         Me.NotifyIcon1 = New System.Windows.Forms.NotifyIcon(Me.components)
         Me.CheckBox1 = New System.Windows.Forms.CheckBox()
+        Me.Label7 = New System.Windows.Forms.Label()
+        Me.Label8 = New System.Windows.Forms.Label()
         Me.SuspendLayout()
         '
         'Button1
@@ -136,18 +138,38 @@ Partial Class Form1
         Me.CheckBox1.AutoSize = True
         Me.CheckBox1.Checked = True
         Me.CheckBox1.CheckState = System.Windows.Forms.CheckState.Checked
-        Me.CheckBox1.Location = New System.Drawing.Point(126, 74)
+        Me.CheckBox1.Location = New System.Drawing.Point(126, 87)
         Me.CheckBox1.Name = "CheckBox1"
         Me.CheckBox1.Size = New System.Drawing.Size(90, 16)
         Me.CheckBox1.TabIndex = 9
         Me.CheckBox1.Text = "退避アクション"
         Me.CheckBox1.UseVisualStyleBackColor = True
         '
+        'Label7
+        '
+        Me.Label7.AutoSize = True
+        Me.Label7.Location = New System.Drawing.Point(226, 59)
+        Me.Label7.Name = "Label7"
+        Me.Label7.Size = New System.Drawing.Size(24, 12)
+        Me.Label7.TabIndex = 11
+        Me.Label7.Text = "なし"
+        '
+        'Label8
+        '
+        Me.Label8.AutoSize = True
+        Me.Label8.Location = New System.Drawing.Point(127, 59)
+        Me.Label8.Name = "Label8"
+        Me.Label8.Size = New System.Drawing.Size(77, 12)
+        Me.Label8.TabIndex = 10
+        Me.Label8.Text = "最終検知時刻"
+        '
         'Form1
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 12.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
         Me.ClientSize = New System.Drawing.Size(350, 117)
+        Me.Controls.Add(Me.Label7)
+        Me.Controls.Add(Me.Label8)
         Me.Controls.Add(Me.CheckBox1)
         Me.Controls.Add(Me.Button3)
         Me.Controls.Add(Me.Label6)
@@ -177,4 +199,6 @@ Partial Class Form1
     Friend WithEvents Button3 As Button
     Friend WithEvents NotifyIcon1 As NotifyIcon
     Friend WithEvents CheckBox1 As CheckBox
+    Friend WithEvents Label7 As Label
+    Friend WithEvents Label8 As Label
 End Class

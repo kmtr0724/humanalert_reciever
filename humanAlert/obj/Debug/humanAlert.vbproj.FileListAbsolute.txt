@@ -21,3 +21,15 @@ D:\system\desktop\humanAlert\humanAlert\obj\Debug\humanAlert.vbproj.GenerateReso
 D:\system\desktop\humanAlert\humanAlert\obj\Debug\humanAlert.exe
 D:\system\desktop\humanAlert\humanAlert\obj\Debug\humanAlert.xml
 D:\system\desktop\humanAlert\humanAlert\obj\Debug\humanAlert.pdb
+C:\Users\kametaro\source\humanalert_reciever\humanAlert\bin\Debug\humanAlert.exe.config
+C:\Users\kametaro\source\humanalert_reciever\humanAlert\bin\Debug\humanAlert.exe
+C:\Users\kametaro\source\humanalert_reciever\humanAlert\bin\Debug\humanAlert.pdb
+C:\Users\kametaro\source\humanalert_reciever\humanAlert\bin\Debug\humanAlert.xml
+C:\Users\kametaro\source\humanalert_reciever\humanAlert\obj\Debug\humanAlert.vbprojAssemblyReference.cache
+C:\Users\kametaro\source\humanalert_reciever\humanAlert\obj\Debug\humanAlert.Form1.resources
+C:\Users\kametaro\source\humanalert_reciever\humanAlert\obj\Debug\humanAlert.Resources.resources
+C:\Users\kametaro\source\humanalert_reciever\humanAlert\obj\Debug\humanAlert.vbproj.GenerateResource.cache
+C:\Users\kametaro\source\humanalert_reciever\humanAlert\obj\Debug\humanAlert.vbproj.CoreCompileInputs.cache
+C:\Users\kametaro\source\humanalert_reciever\humanAlert\obj\Debug\humanAlert.exe
+C:\Users\kametaro\source\humanalert_reciever\humanAlert\obj\Debug\humanAlert.xml
+C:\Users\kametaro\source\humanalert_reciever\humanAlert\obj\Debug\humanAlert.pdb

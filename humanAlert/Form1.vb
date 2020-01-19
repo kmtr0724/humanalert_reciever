@@ -56,6 +56,8 @@ Public Class Form1
     Private Sub AlertFunctionDlg()
         Invoke(New SetStatusLabel_delegate(AddressOf SetStatusLabel), "アラート受信")
         'System.Threading.Thread.Sleep(300)
+        Invoke(New SetStatusLabel_delegate(AddressOf SetLastAlertTimeLabel), Date.Now.ToLongTimeString)
+
         If CheckBox1.Checked = True Then
             Call keybd_event(173, 0, 0, 0) 'mute
             Call keybd_event(173, 0, 2, 0)
@@ -102,6 +104,10 @@ Public Class Form1
 
     Private Sub SetLastHealthCheckTimeLabel(str As String)
         Label6.Text = str
+    End Sub
+
+    Private Sub SetLastAlertTimeLabel(str As String)
+        Label7.Text = str
     End Sub
 
     Private Sub Button2_Click(sender As Object, e As EventArgs) Handles Button2.Click
