@@ -56,13 +56,15 @@ Public Class Form1
     Private Sub AlertFunctionDlg()
         Invoke(New SetStatusLabel_delegate(AddressOf SetStatusLabel), "アラート受信")
         'System.Threading.Thread.Sleep(300)
-        Call keybd_event(173, 0, 0, 0) 'mute
-        Call keybd_event(173, 0, 2, 0)
-        System.Threading.Thread.Sleep(100)
-        Call keybd_event(&H5B, 0, 0, 0) 'Windowsキーを押す
-        Call keybd_event(77, 0, 0, 0) 'm
-        Call keybd_event(77, 0, 2, 0)
-        Call keybd_event(&H5B, 0, 2, 0)
+        If CheckBox1.Checked = True Then
+            Call keybd_event(173, 0, 0, 0) 'mute
+            Call keybd_event(173, 0, 2, 0)
+            System.Threading.Thread.Sleep(100)
+            Call keybd_event(&H5B, 0, 0, 0) 'Windowsキーを押す
+            Call keybd_event(77, 0, 0, 0) 'm
+            Call keybd_event(77, 0, 2, 0)
+            Call keybd_event(&H5B, 0, 2, 0)
+        End If
 
         NotifyIcon1.BalloonTipText = "検知"
         NotifyIcon1.BalloonTipIcon = ToolTipIcon.Error
