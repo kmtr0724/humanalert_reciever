@@ -1,5 +1,4 @@
 ﻿Imports System.Net.NetworkInformation
-'gitのテスト2
 Public Class Form1
     Public Declare Sub keybd_event Lib "user32" (ByVal bVk As Byte, ByVal bScan As Byte, ByVal dwFlags As Integer, ByVal dwExtraInfo As Integer)
 
@@ -202,5 +201,7 @@ Public Class Form1
         Return ret
     End Function
 
+    Private Sub NotifyIcon1_MouseDoubleClick(sender As Object, e As MouseEventArgs) Handles NotifyIcon1.MouseDoubleClick
 
+    End Sub
 End Class

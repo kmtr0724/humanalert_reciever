@@ -21,14 +21,3 @@ D:\system\desktop\humanAlert\humanAlert\obj\Debug\humanAlert.vbproj.GenerateReso
 D:\system\desktop\humanAlert\humanAlert\obj\Debug\humanAlert.exe
 D:\system\desktop\humanAlert\humanAlert\obj\Debug\humanAlert.xml
 D:\system\desktop\humanAlert\humanAlert\obj\Debug\humanAlert.pdb
-D:\system\desktop\human-git\humanAlert\bin\Debug\humanAlert.exe.config
-D:\system\desktop\human-git\humanAlert\bin\Debug\humanAlert.exe
-D:\system\desktop\human-git\humanAlert\bin\Debug\humanAlert.pdb
-D:\system\desktop\human-git\humanAlert\bin\Debug\humanAlert.xml
-D:\system\desktop\human-git\humanAlert\obj\Debug\humanAlert.vbprojAssemblyReference.cache
-D:\system\desktop\human-git\humanAlert\obj\Debug\humanAlert.Form1.resources
-D:\system\desktop\human-git\humanAlert\obj\Debug\humanAlert.Resources.resources
-D:\system\desktop\human-git\humanAlert\obj\Debug\humanAlert.vbproj.GenerateResource.cache
-D:\system\desktop\human-git\humanAlert\obj\Debug\humanAlert.exe
-D:\system\desktop\human-git\humanAlert\obj\Debug\humanAlert.xml
-D:\system\desktop\human-git\humanAlert\obj\Debug\humanAlert.pdb
